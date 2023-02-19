@@ -1,16 +1,24 @@
-### Hi there 👋
 
-<!--
-**WagnerGabriell/WagnerGabriell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
+### Ola Senhoras e Senhores, Eu sou Wagner Gabriel 👋
 
-Here are some ideas to get you started:
+<ul>
+  <li>👨🏽‍🎓 Cursando Analise e Desenvolvimento de Sistemas;</li>
+  <li>📚 Estou atualmente estudando JavaScript;</li>
+  <li>📍 Jaboticabal, São-Paulo, Brasil;</li>
+  <li>📫 Contate-me no seguinte email: wagnergoliveira4@gmail.com;</li>
+  <li>😄 Pronomes: ele/dele;</li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<span><strong>Redes Sociais</strong></span>
+<div>
+  <a href="https://www.linkedin.com/in/wagner-souza-0854a4228/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50"/>
+  </a>
+  <a href="https://instagram.com/_wagner.souza?igshid=YmJhNjkzNzY=">
+    <img src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-instagram-social-platform-icon-png-image_6315976.png" width="50"/>
+  </a>
+</div>
+
+
