@@ -13,7 +13,7 @@
 
 <span><strong>Redes Sociais</strong></span>
 <div>
-  <a href="https://www.linkedin.com/in/wagner-souza-0854a4228/">
+  <a href="https://www.linkedin.com/in/wagner-gabriel-oliveira-de-souza-0854a4228/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50"/>
   </a>
   <a href="https://instagram.com/_wagner.souza?igshid=YmJhNjkzNzY=">
