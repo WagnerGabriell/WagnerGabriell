@@ -5,7 +5,7 @@
 
 <ul>
   <li>👨🏽‍🎓 Cursando Analise e Desenvolvimento de Sistemas;</li>
-  <li>📚 Estou atualmente estudando JavaScript;</li>
+  <li>📚 Estou atualmente estudando TypeScript;</li>
   <li>📍 Jaboticabal, São-Paulo, Brasil;</li>
   <li>📫 Contate-me no seguinte email: wagnergoliveira4@gmail.com;</li>
   <li>😄 Pronomes: ele/dele;</li>
